@@ -1,6 +1,11 @@
 # Undergraduate Projects
 A collection of all notable projects that I've worked on in my undergraduate study.
 
+* HittiteToEng:
+
+  Utilizes an open-source transformer-based model (called NLLB), along with Natural Language Processing (NLP) techniques to fulfill the task of translating the ancient language, Hittite, to English.
+  https://github.com/rfeinberg3/NLPFinalProject.git
+
 * KnowYourFood:
 
   This app displays to the user a refreshable list of random recipes pulled from the internet. The user can select diets such as vegetarian or keto to filter out recipes they may not be able to eat.
