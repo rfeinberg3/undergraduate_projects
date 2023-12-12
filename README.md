@@ -7,6 +7,12 @@ A collection of all notable projects that I've worked on in my undergraduate stu
   See code implementation by uploading nllb_hittite_to_english_finetune.ipynb (Google Collab). Found on our project GitHub within the "HittiteCode" folder.
   https://github.com/rfeinberg3/NLPFinalProject.git
 
+* MovieTheaterDB:
+
+  Allowed for user signup/login, which tracks many aspects of the user and movies/theaters they attended or will attend, as well as the relationships between employees/concession purchases/concession items/movie showings/theaters/customers.
+  See implementation on our GitHub:
+  https://github.com/rfeinberg3/MovieTheaterDB.git
+
 * KnowYourFood:
 
   This app displays to the user a refreshable list of random recipes pulled from the internet. The user can select diets such as vegetarian or keto to filter out recipes they may not be able to eat.
