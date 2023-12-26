@@ -3,7 +3,7 @@ A collection of all notable projects that I've worked on in my undergraduate stu
 
 * HittiteToEng:
 
-  Utilizes an open-source transformer-based model (called NLLB), along with Natural Language Processing (NLP) techniques to fulfill the task of translating the ancient language, Hittite, to English.
+  Utilizes an open-source transformer-based machine translation model (called NLLB), along with Natural Language Processing (NLP) techniques to fulfill the task of translating the ancient language, Hittite, to English.
   See code implementation by uploading nllb_hittite_to_english_finetune.ipynb (Google Collab), found on our GitHub within the "HittiteCode" folder. You can also find our report/paper here:
   https://github.com/rfeinberg3/NLPFinalProject.git
 
