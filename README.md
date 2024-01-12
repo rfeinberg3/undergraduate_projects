@@ -7,6 +7,11 @@ A collection of all notable projects that I've worked on in my undergraduate stu
   See code implementation by uploading nllb_hittite_to_english_finetune.ipynb (Google Collab), found on our GitHub within the "HittiteCode" folder. You can also find our report/paper here:
   https://github.com/rfeinberg3/NLPFinalProject.git
 
+* ML/DL Projects:
+
+  Implementation, testing, and experimentation with PCA, LDA, and SVM machine learning algorithms.
+  Implementation, testing, and experimentation with CNN (LeNet5) and Vanilla RNN deep learning methods.
+
 * MovieTheaterDB:
 
   Allows for user signup/login, which tracks many aspects of the user and movies/theaters they attended or will attend, as well as the relationships between employees/concession purchases/concession items/movie showings/theaters/customers.
